@@ -56,24 +56,73 @@ Observer un milieu, concevoir une expérience, analyser des résultats, argument
 
 ## Six domaines pour approfondir vos intérêts
 
-Les présentations du master mettent en avant six modules. Vous en choisissez trois pour orienter votre parcours ; les intitulés et l’organisation en vigueur sont à consulter dans le catalogue officiel.
+Trois modules de huit crédits, à choisir parmi six domaines : composez un parcours en accord avec vos intérêts.
 
-::: {.module-grid}
-- **Modélisation en écologie et évolution** — Modelling in ecology and evolution
-- **Écologie du stress et écotoxicologie** — Stress ecology and ecotoxicology
-- **Écologie comportementale** — Behavioural ecology
-- **Conservation et restauration de la biodiversité**
-- **Écologie spatiale et thermique** — Spatial and thermal ecology
-- **Écologie moléculaire et génomique de la biodiversité** — Molecular ecology and biodiversity genomics
+::: {.module-cards}
+::: {.module-card}
+![](assets/module-modelisation.png){fig-alt="Réseau d’interactions écologiques présenté dans le cours." loading="lazy"}
+
+### Modélisation en écologie et évolution
+
+Explorer les interactions entre espèces à l’aide de modèles et de simulations.
+
+[Modelling in ecology and evolution]{.module-english}
 :::
+::: {.module-card}
+![](assets/module-stress.png){fig-alt="Cheminées industrielles émettant des fumées." loading="lazy"}
+
+### Écologie du stress et écotoxicologie
+
+Comprendre comment les organismes et les écosystèmes répondent aux perturbations.
+
+[Stress ecology and ecotoxicology]{.module-english}
+:::
+::: {.module-card}
+![](assets/module-comportement.png){fig-alt="Un poisson prédateur au milieu d’un banc de poissons." loading="lazy"}
+
+### Écologie comportementale
+
+Relier les comportements aux interactions entre organismes et à leur environnement.
+
+[Behavioural ecology]{.module-english}
+:::
+::: {.module-card}
+![](assets/module-conservation.png){fig-alt="Paysage de forêt et de montagnes." loading="lazy"}
+
+### Conservation et restauration de la biodiversité
+
+Étudier les milieux naturels et les moyens de préserver leur diversité.
+
+[Conservation et restauration de la biodiversité]{.module-english}
+:::
+::: {.module-card}
+![](assets/module-thermique.png){fig-alt="Carte mondiale illustrant la variation spatiale d’un indicateur climatique." loading="lazy"}
+
+### Écologie spatiale et thermique
+
+Explorer le rôle de l’espace et de la température dans le fonctionnement du vivant.
+
+[Spatial and thermal ecology]{.module-english}
+:::
+::: {.module-card}
+![](assets/module-moleculaire.png){fig-alt="Illustration de micro-organismes issue de la présentation du master." loading="lazy"}
+
+### Écologie moléculaire et génomique de la biodiversité
+
+Faire le lien entre diversité biologique, méthodes moléculaires et génomique.
+
+[Molecular ecology and biodiversity genomics]{.module-english}
+:::
+:::
+
+[Consulter les enseignements et leur organisation dans le catalogue officiel ↗](https://uclouvain.be/prog-2026-boe2m)
 
 ## Des connaissances pour des questions de société
 
 Conservation de la biodiversité, santé humaine et des écosystèmes (« One Health »), effets des pollutions et du changement climatique, gestion des ressources biologiques : la formation vous donne des outils pour aborder ces enjeux avec une démarche scientifique.
 
-::: {.photo-pair}
-![Observer et travailler ensemble sur le terrain.](assets/terrain-foret.jpg){fig-alt="Deux personnes mènent une activité de terrain dans une forêt." loading="lazy"}
-![Échanger et analyser en équipe.](assets/travail-equipe.jpg){fig-alt="Un groupe travaille autour d’une table dans une salle lumineuse." loading="lazy"}
-:::
 
 [Quels métiers après le BOE ? →](debouches.qmd){.button-primary}
+
+
+[Découvrir le stage de terrain en images →](terrain.qmd){.button-primary}

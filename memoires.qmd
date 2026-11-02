@@ -45,19 +45,46 @@ La rédaction et la présentation orale vous entraînent à expliquer vos résul
 :::
 :::
 
-## Quel sujet pourriez-vous explorer ?
+## Quels horizons pour votre mémoire ? {#exemples}
 
-Les propositions évoluent avec les recherches des équipes. Pour découvrir les possibilités liées à vos centres d’intérêt, prenez contact avec les responsables du master. Un accueil dans un laboratoire extérieur peut également être envisagé, sous réserve de validation et d’un encadrement approprié.
+Comprendre le vivant, expliquer ses réponses aux changements environnementaux, contribuer à sa conservation : les mémoires BOE explorent ces enjeux à différentes échelles, des molécules aux paysages. Ces grands thèmes illustrent la diversité des recherches dans les équipes du master.
 
-[Échanger avec l’équipe →](equipe.qmd){.button-primary}
-[Découvrir aussi le stage →](stages.qmd){.text-link}
+::: {.topic-grid}
+::: {.topic-card #ecosystemes}
+### Biodiversité et fonctionnement des écosystèmes
 
+Comment les espèces coexistent-elles ? Qu’est-ce qui rend une communauté résistante aux perturbations ? Vous pouvez explorer les liens entre diversité du vivant, interactions écologiques et fonctionnement des écosystèmes, notamment face aux changements climatiques.
 
-## Rencontrer les équipes et élargir vos horizons
+**Pour les étudier :** expériences en conditions contrôlées, analyse de communautés et modélisation écologique.
+:::
+::: {.topic-card #organismes}
+### S’adapter dans un environnement qui change
 
-La foire aux mémoires permet de discuter directement avec les scientifiques qui proposent des sujets. C’est l’occasion de découvrir des approches auxquelles vous n’auriez pas encore pensé, de comparer les méthodes et de choisir un projet qui vous fera progresser.
+Chaleur, pollution, ressources limitées : les organismes font face à des contraintes multiples. Des recherches relient leurs réponses comportementales et physiologiques aux mécanismes génétiques et épigénétiques qui contribuent à leur capacité d’adaptation.
 
-Le mémoire est aussi un moment pour développer des compétences transférables : mener un projet, travailler en équipe, communiquer en anglais et argumenter sur la base de données.
+**Pour les étudier :** écotoxicologie, écophysiologie, biologie moléculaire et génomique.
+:::
+::: {.topic-card #conservation}
+### Comportements, déplacements et conservation
 
-[Découvrir les équipes →](equipe.qmd){.text-link}
+Se nourrir, choisir un habitat ou se déplacer sont des décisions essentielles à la vie des animaux. Comprendre ces comportements et la dynamique des populations aide à évaluer les effets de la transformation des paysages et à éclairer la conservation de la biodiversité.
+
+**Pour les étudier :** observations de terrain, suivi des déplacements, cartographie et analyses quantitatives.
+:::
+::: {.topic-card #plantes}
+### Plantes et interactions entre espèces
+
+La reproduction des plantes, leurs réponses au stress et leurs relations avec d’autres organismes ouvrent de nombreuses questions. Les associations entre insectes et bactéries permettent aussi d’explorer comment les interactions entre espèces évoluent et influencent leur écologie.
+
+**Pour les étudier :** expériences en serre ou au laboratoire, suivi de terrain et outils moléculaires.
+:::
+:::
+
+## Trouver l’approche qui vous ressemble
+
+Vous aimez observer sur le terrain, expérimenter au laboratoire ou analyser des données ? Un mémoire peut combiner plusieurs de ces approches. Les échanges avec les équipes vous aident à construire un projet en accord avec vos intérêts, tout en découvrant de nouvelles façons de faire de la science.
+
+Au-delà de la question étudiée, vous apprenez à mener un projet, à travailler en équipe, à communiquer vos résultats et à argumenter sur la base de données : des compétences utiles dans de nombreux métiers.
+
+[Découvrir les équipes et leurs spécialités →](equipe.qmd){.button-primary}
 [Voir comment les alumni utilisent ces compétences →](debouches.qmd){.text-link}

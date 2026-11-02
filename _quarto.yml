@@ -12,13 +12,14 @@ project:
     - stages.qmd
     - liens.qmd
     - debouches.qmd
+    - terrain.qmd
 lang: fr
 website:
   title: "Master BOE"
   description: "Biologie des organismes et écologie : découvrez le master commun de l’UCLouvain et de l’UNamur."
   favicon: assets/favicon.svg
   navbar:
-    title: "BOE<span class='brand-dot'>.</span>"
+    title: "MasterBOE"
     background: light
     left:
       - href: a-propos.qmd
@@ -27,8 +28,10 @@ website:
         text: L’équipe
       - href: memoires.qmd
         text: Mémoires
+      - href: terrain.qmd
+        text: Stage de terrain
       - href: stages.qmd
-        text: Stages
+        text: Stage professionnel
       - href: debouches.qmd
         text: Débouchés
       - href: liens.qmd

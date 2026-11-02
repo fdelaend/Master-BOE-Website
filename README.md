@@ -39,7 +39,7 @@ Consultées le 2 novembre 2026 :
 - Catalogue officiel : https://uclouvain.be/prog-2026-boe2m
 - Conditions d’accès : https://uclouvain.be/prog-2026-boe2m-cond_adm
 
-Le manuel est utilisé comme source, sans lien public vers le site existant. Les informations administratives internes, dates de dépôt, Moodle et procédures des étudiants inscrits sont volontairement écartées. La page équipe présente les trois interlocuteurs et les scientifiques nommés dans la foire aux mémoires 2026–2027. Les témoignages et exemples de structures de stage proviennent du dossier input ; aucun débouché garanti ni offre de stage actuelle n’est affirmé.
+Le manuel est utilisé comme source, sans lien public vers le site existant. Les informations administratives internes, dates de dépôt, Moodle et procédures des étudiants inscrits sont volontairement écartées. La page équipe présente les promoteurs et leurs spécialités, à partir des documents fournis et de sources publiques de recherche. Les témoignages et exemples de structures de stage proviennent du dossier input ; aucun débouché garanti ni offre de stage actuelle n’est affirmé.
 
 ## Avant publication
 
@@ -59,3 +59,23 @@ Le dossier possède déjà un dépôt Git local. Pour une publication ultérieur
 - Les logos UCLouvain.png et UNamur.png sont repris tels quels sur l’accueil ; ils ne sont ni recolorés ni déformés.
 - L’affiche de 2022 a été examinée mais n’est pas intégrée : son ancienneté ne permet pas de la présenter comme le programme actuel.
 - `input/` est exclu des ressources de publication Quarto. Seules les images sélectionnées dans `assets/` sont publiables avec le site ; les documents sources et la vidéo restent dans le dossier de travail.
+
+## Portraits alumni
+
+Les quatre portraits `input/depestel.png`, `lievin.png`, `voisin.png` et `laurent.png` sont copiés dans `assets/alumni-*.png`. La page Débouchés les affiche dans des cercles, avec un cadrage CSS propre à chaque fichier pour exclure la bannière et les marges des images fournies. Les originaux restent inchangés.
+
+## Nouvelle intégration : mémoires, modules, employeurs et terrain
+
+- Les 13 PDF du dossier input/memoires servent de base à une synthèse des grands thèmes de recherche sur memoires.qmd, sans reproduire les propositions annuelles. Les PDF bruts ne sont pas publiés (ils contiennent notamment des courriels).
+- Les six illustrations des modules proviennent de la diapositive 5 de Master BOE 25-26_2026.pptx : image22, image24, image25, image13, image23 et image26.
+- La page terrain.qmd présente le cours de terrain, distinct du stage professionnel. Sélection contrôlée : aucune photo ne montre une personne tenant un oiseau.
+- Logos PlantC, Natagora, SPW extraits de la présentation fournie. Logos VIVUS, CRA-W et European Metals récupérés sur leurs sites officiels. Les sources des emplois sont liées depuis la page Débouchés, vérification du 2 novembre 2026. Le PDF du groupe LinkedIn a servi à identifier les personnes à rechercher ; aucune appartenance au groupe n’est présentée comme preuve d’emploi.
+- Les adresses électroniques et liens mailto ont été supprimés de toutes les pages QMD. Les sources privées restent inchangées dans input, exclu du site généré.
+
+## Révision éditoriale des mémoires et de l’équipe
+
+Les sujets annuels sont remplacés par quatre grands horizons de recherche et leurs approches. Les informations de présence à la foire et les détails organisationnels associés ont été supprimés. Les profils de promoteurs s’appuient sur les documents fournis ; les compléments publics sont liés sur la page équipe (UNamur, UCLouvain, laboratoire Baeckens et FNRS). Les doctorants et collaborateurs cités dans les propositions ne sont pas automatiquement présentés comme promoteurs.
+
+## Rafraîchissement visuel et précisions
+
+Stage professionnel : durée de quatre mois confirmée par le responsable ; exemples de structures explicitement présentés comme illustratifs, photo du cours de terrain et références aux interviews retirées. Témoignages placés en tête de la page Débouchés. Accueil illustré par trois images fournies (paysage, coraux, insecte). Date de création 2007 confirmée par l’utilisateur, en accord avec l’image Picture 1.png-10. L’accueil présente cette date sous forme de bandeau typographique. Treize portraits du dossier PIs exportés en PNG circulaires transparents ; aucune photo fournie pour Thierry Hance. Originaux conservés.

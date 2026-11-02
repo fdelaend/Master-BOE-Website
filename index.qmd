@@ -22,8 +22,11 @@ Des organismes aux écosystèmes, apprenez à poser les bonnes questions sur le 
 [Découvrir le master →](a-propos.qmd){.button-primary}
 [Votre projet commence ici ↗](liens.qmd#admission){.text-link}
 :::
-::: {.hero-art}
-![](assets/terrain-riviere.jpg){fig-alt="Travail de terrain en groupe dans une rivière bordée d’arbres."}
+::: {.hero-art .biodiversity-mosaic}
+<div class="mosaic-landscape"><img src="assets/accueil-paysage.jpg" alt="Diversité des paysages : forêt et reliefs montagneux." width="800" height="600"></div>
+<div class="mosaic-detail"><img src="assets/accueil-coraux.jpg" alt="Coraux et poissons d’un récif." width="500" height="350"></div>
+<div class="mosaic-detail"><img src="assets/accueil-insecte.jpg" alt="Un insecte posé sur une plante." width="500" height="350"></div>
+<p class="mosaic-caption">Des organismes aux écosystèmes.<br>Une même curiosité pour le vivant.</p>
 :::
 :::
 
@@ -50,6 +53,12 @@ au cœur de la formation
 :::
 :::
 
+::: {.heritage-banner}
+[Depuis 2007]{.heritage-date}
+
+Un master partagé entre l’UCLouvain et l’UNamur, pour former des biologistes capables de comprendre le vivant et ses transformations.
+:::
+
 ::: {.section-intro}
 [Votre curiosité, un point de départ]{.eyebrow}
 
@@ -67,6 +76,8 @@ Vous vous interrogez sur la biodiversité, les interactions entre organismes et 
 Croisez les approches des milieux terrestres et aquatiques et composez un parcours qui fait place à vos intérêts.
 
 [Le programme →](a-propos.qmd)
+
+[Le stage de terrain en images →](terrain.qmd)
 :::
 ::: {.feature}
 [02 / Chercher]{.eyebrow}
