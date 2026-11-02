@@ -1,0 +1,46 @@
+---
+title: "Liens utiles"
+---
+
+[Préparer la suite]{.eyebrow}
+
+# Les bons repères pour vous lancer.
+
+::: {.page-lead}
+Explorer les cours, comprendre les conditions d’accès et découvrir les universités : voici les ressources pour préparer votre projet d’études.
+:::
+
+## Votre candidature {#admission}
+
+::: {.resource-list}
+### [Vérifier les conditions d’accès ↗](https://uclouvain.be/prog-2026-boe2m-cond_adm)
+
+Les possibilités d’admission dépendent de votre diplôme et de votre parcours. Consultez les conditions officielles avant de préparer votre dossier.
+
+### [Découvrir le programme officiel ↗](https://uclouvain.be/prog-2026-boe2m)
+
+Le catalogue 2026–2027 rassemble les informations sur la formation et donne accès à la procédure d’inscription via la rubrique « S’inscrire ».
+
+### [Contacter les responsables du master →](equipe.qmd)
+
+Pour discuter de vos intérêts et poser vos questions sur le contenu de la formation.
+:::
+
+## Deux universités à découvrir
+
+::: {.people-grid}
+::: {.note-panel}
+### [UCLouvain ↗](https://www.uclouvain.be/)
+
+Découvrez l’université, son campus de Louvain-la-Neuve et les services proposés aux futurs étudiants. L’inscription au master BOE s’effectue à l’UCLouvain.
+:::
+::: {.note-panel}
+### [UNamur ↗](https://www.unamur.be/)
+
+Explorez l’université de Namur, son environnement d’études et ses activités de recherche.
+:::
+:::
+
+::: {.small-note}
+Les conditions d’admission et le programme peuvent évoluer d’une année académique à l’autre. Les pages institutionnelles font référence pour préparer votre inscription.
+:::

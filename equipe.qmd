@@ -1,0 +1,86 @@
+---
+title: "L’équipe"
+---
+
+[Des personnes pour vous accompagner]{.eyebrow}
+
+# La science se construit ensemble.
+
+::: {.page-lead}
+Derrière le programme, des équipes de deux universités et des scientifiques qui vous accompagnent dans vos apprentissages et vos projets de recherche.
+:::
+
+## Vos interlocuteurs pour découvrir le master
+
+::: {.people-grid}
+::: {.person}
+[UNamur]{.eyebrow}
+
+## Frederik De Laender
+
+**Responsable du programme BOE**
+
+Pour échanger sur la formation et votre intérêt pour le master.
+
+[frederik.delaender@unamur.be](mailto:frederik.delaender@unamur.be)
+:::
+::: {.person}
+[UCLouvain]{.eyebrow}
+
+## Hans Van Dyck
+
+**Responsable du programme BOE**
+
+Pour découvrir le parcours et discuter de vos questions sur le programme.
+
+[hans.vandyck@uclouvain.be](mailto:hans.vandyck@uclouvain.be)
+:::
+::: {.person}
+[UCLouvain]{.eyebrow}
+
+## Renate Wesselingh
+
+**Présidente du jury BOE**
+
+Un rôle dans le suivi académique du parcours de formation.
+
+[renate.wesselingh@uclouvain.be](mailto:renate.wesselingh@uclouvain.be)
+:::
+:::
+
+## Un environnement de recherche partagé
+
+Le master s’appuie notamment sur les équipes de biodiversité, d’écologie et de physiologie végétale de l’Earth & Life Institute à l’UCLouvain, ainsi que sur l’unité de recherche en biologie environnementale et évolutive (URBE) à l’UNamur.
+
+Votre équipe d’encadrement de mémoire vous aide à faire progresser une question scientifique, à choisir vos méthodes et à développer un regard critique.
+
+::: {.callout-band}
+## Une question sur votre projet d’études ?
+
+Présentez votre formation actuelle et ce qui vous attire dans le BOE : ces éléments aideront les responsables à vous orienter.
+
+[Les ressources pour candidater →](liens.qmd#admission){.button-light}
+:::
+
+
+## Les équipes présentes à la foire aux mémoires 2026–2027
+
+Le mémoire vous met en contact avec un environnement scientifique plus large. La présentation de la foire aux mémoires réunit les noms suivants :
+
+::: {.research-names}
+- Simon Baeckens
+- Frederik De Laender
+- Alice Dennis
+- Ruben Evens
+- Muriel Quinet
+- Brendan Reid
+- François Renoz
+- Nicolas Schtickzelle
+- Frédéric Silvestre
+- Eli Thoré
+- Hans Van Dyck
+- Sophie Vanwambeke
+- Renate Wesselingh
+:::
+
+Les sujets et les possibilités d’encadrement évoluent avec les projets des équipes. Les responsables du programme peuvent vous orienter selon vos centres d’intérêt.

@@ -1,0 +1,51 @@
+project:
+  type: website
+  output-dir: _site
+  resources:
+    - "assets/**"
+    - "!input/**"
+  render:
+    - index.qmd
+    - a-propos.qmd
+    - equipe.qmd
+    - memoires.qmd
+    - stages.qmd
+    - liens.qmd
+    - debouches.qmd
+lang: fr
+website:
+  title: "Master BOE"
+  description: "Biologie des organismes et écologie : découvrez le master commun de l’UCLouvain et de l’UNamur."
+  favicon: assets/favicon.svg
+  navbar:
+    title: "BOE<span class='brand-dot'>.</span>"
+    background: light
+    left:
+      - href: a-propos.qmd
+        text: À propos
+      - href: equipe.qmd
+        text: L’équipe
+      - href: memoires.qmd
+        text: Mémoires
+      - href: stages.qmd
+        text: Stages
+      - href: debouches.qmd
+        text: Débouchés
+      - href: liens.qmd
+        text: Liens utiles
+    right:
+      - href: liens.qmd#admission
+        text: Rejoindre le master ↗
+  search: false
+  page-footer:
+    left: "**Master BOE** · Biologie des organismes et écologie"
+    right: "UCLouvain × UNamur"
+format:
+  html:
+    theme: cosmo
+    css: styles.css
+    toc: false
+    title-block-style: none
+    page-layout: full
+    anchor-sections: false
+    link-external-newwindow: true

@@ -1,0 +1,63 @@
+---
+title: "Les mémoires"
+---
+
+[Une première aventure scientifique]{.eyebrow}
+
+# Une question. Votre démarche. De nouvelles perspectives.
+
+::: {.page-lead}
+Le mémoire vous place au cœur de la recherche. Vous passez de l’envie de comprendre à la construction d’un travail personnel, accompagné par une équipe scientifique.
+:::
+
+::: {.split-section}
+::: {}
+## Faire l’expérience de la recherche
+
+Comment transformer une observation en hypothèse ? Quelles données recueillir ? Que permettent-elles réellement de conclure ? Le mémoire est un espace pour apprendre à poser ces questions avec rigueur.
+
+Vous participez à un projet, confrontez vos résultats à la littérature et apprenez à présenter votre démarche à d’autres scientifiques.
+:::
+::: {.note-panel}
+### Un projet accompagné
+
+Le travail commence au second quadrimestre de la première année et se poursuit au premier quadrimestre de la deuxième. Un laboratoire d’accueil et une équipe d’encadrement vous accompagnent dans cette progression.
+:::
+:::
+
+## Du premier échange à la présentation finale
+
+::: {.timeline}
+::: {.timeline-step}
+### Trouver votre question
+
+Découvrez les propositions des équipes et échangez avec les scientifiques. Vos intérêts constituent le point de départ d’un choix de sujet éclairé.
+:::
+::: {.timeline-step}
+### Construire des réponses
+
+Lire, observer, expérimenter, analyser : vous assemblez progressivement les éléments d’une réponse scientifique, avec les méthodes adaptées à votre sujet.
+:::
+::: {.timeline-step}
+### Partager ce que vous avez appris
+
+La rédaction et la présentation orale vous entraînent à expliquer vos résultats, à en reconnaître les limites et à défendre votre interprétation.
+:::
+:::
+
+## Quel sujet pourriez-vous explorer ?
+
+Les propositions évoluent avec les recherches des équipes. Pour découvrir les possibilités liées à vos centres d’intérêt, prenez contact avec les responsables du master. Un accueil dans un laboratoire extérieur peut également être envisagé, sous réserve de validation et d’un encadrement approprié.
+
+[Échanger avec l’équipe →](equipe.qmd){.button-primary}
+[Découvrir aussi le stage →](stages.qmd){.text-link}
+
+
+## Rencontrer les équipes et élargir vos horizons
+
+La foire aux mémoires permet de discuter directement avec les scientifiques qui proposent des sujets. C’est l’occasion de découvrir des approches auxquelles vous n’auriez pas encore pensé, de comparer les méthodes et de choisir un projet qui vous fera progresser.
+
+Le mémoire est aussi un moment pour développer des compétences transférables : mener un projet, travailler en équipe, communiquer en anglais et argumenter sur la base de données.
+
+[Découvrir les équipes →](equipe.qmd){.text-link}
+[Voir comment les alumni utilisent ces compétences →](debouches.qmd){.text-link}
