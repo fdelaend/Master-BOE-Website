@@ -4,7 +4,7 @@ title: "À propos du master"
 
 [La formation]{.eyebrow}
 
-# Deux universités. Une même curiosité pour le vivant.
+# La biologie des organismes et l’écologie dans deux universités
 
 ::: {.page-lead}
 Le Master en biologie des organismes et écologie réunit l’UCLouvain et l’UNamur autour d’un projet commun : comprendre les organismes, leurs interactions et les écosystèmes qu’ils composent.
@@ -12,14 +12,14 @@ Le Master en biologie des organismes et écologie réunit l’UCLouvain et l’U
 
 ::: {.split-section}
 ::: {}
-## Un parcours à votre image
+## Organisation du programme
 
 Cette formation de **120 crédits, sur deux années**, associe des bases communes, des enseignements de spécialisation, un mémoire et un stage. Les cours se déroulent à Namur et à Louvain-la-Neuve : étudier en BOE, c’est découvrir deux environnements universitaires.
 
 Le programme est francophone et comprend aussi des activités en anglais. La communication scientifique fait partie de votre formation.
 :::
 ::: {.note-panel}
-### Est-ce le master pour vous ?
+### Conditions d’accès
 
 Vous aimez observer, expérimenter et comprendre ? Vous souhaitez approfondir votre formation en sciences de la vie et travailler sur les enjeux de biodiversité et d’environnement ? Explorez le programme et vérifiez les conditions d’accès correspondant à votre diplôme.
 
@@ -27,7 +27,7 @@ Vous aimez observer, expérimenter et comprendre ? Vous souhaitez approfondir vo
 :::
 :::
 
-## Deux années pour passer de la question à l’action
+## Le déroulement des deux années
 
 ::: {.timeline}
 ::: {.timeline-step}
@@ -54,7 +54,7 @@ Observer un milieu, concevoir une expérience, analyser des résultats, argument
 [Explorer le programme officiel 2026–2027 ↗](https://uclouvain.be/prog-2026-boe2m){.button-primary}
 
 
-## Six domaines pour approfondir vos intérêts
+## Six domaines de spécialisation
 
 Trois modules de huit crédits, à choisir parmi six domaines : composez un parcours en accord avec vos intérêts.
 

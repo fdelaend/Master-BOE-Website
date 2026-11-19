@@ -1,0 +1,46 @@
+---
+title: "Useful links"
+---
+
+[Admission and information]{.eyebrow}
+
+# Programme information and admission
+
+::: {.page-lead}
+Official resources for course information, entry requirements and university services.
+:::
+
+## Applying {#admission}
+
+::: {.resource-list}
+### [Check admission requirements ↗](https://uclouvain.be/prog-2026-boe2m-cond_adm)
+
+Eligibility depends on your qualifications and previous studies. Consult the official requirements before preparing an application.
+
+### [Official programme catalogue ↗](https://uclouvain.be/prog-2026-boe2m)
+
+The 2026–2027 catalogue provides programme information and access to the enrolment procedure through its registration section.
+
+### [Programme contacts →](equipe.qmd)
+
+Discuss your interests and questions about the content of the programme.
+:::
+
+## The two universities
+
+::: {.people-grid}
+::: {.note-panel}
+### [UCLouvain ↗](https://www.uclouvain.be/)
+
+Information about the university, its Louvain-la-Neuve campus and prospective-student services. Enrolment in the BOE master's programme is through UCLouvain.
+:::
+::: {.note-panel}
+### [UNamur ↗](https://www.unamur.be/)
+
+Information about the University of Namur, its study environment and research activities.
+:::
+:::
+
+::: {.small-note}
+Admission requirements and the programme may change between academic years. Institutional pages are the authoritative reference. Teaching is mainly in French, with some activities in English; some linked resources are in French.
+:::

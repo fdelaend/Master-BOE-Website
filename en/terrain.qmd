@@ -1,0 +1,52 @@
+---
+title: "Field course"
+description: "The integrated ecology field course: field observations, teamwork and data interpretation."
+---
+
+[Field-based learning]{.eyebrow}
+
+# The integrated ecology field course
+
+::: {.page-lead}
+The integrated ecology field course is part of the core programme. It introduces field observations and collective work early in the degree.
+:::
+
+::: {.field-photo}
+![Observations in an aquatic environment.](../assets/terrain-riviere.jpg){fig-alt="A group works in a shallow river beneath a footbridge."}
+:::
+
+::: {.split-section}
+::: {}
+## Studying environments in the field
+
+Fieldwork requires observation, attention to environmental conditions, decisions about what to measure and discussion of the conclusions supported by the observations.
+
+This collective experience connects coursework with the variety of situations encountered in natural environments.
+:::
+::: {.note-panel}
+### Two complementary experiences
+
+The **integrated ecology field course** is a collective teaching activity. The **second-year professional internship** is an individual placement in a host organisation.
+
+[Professional internship →](stages.qmd)
+:::
+:::
+
+## Fieldwork and group activities
+
+<div class="terrain-mosaic">
+<figure class="terrain-tile"><img src="../assets/terrain-foret.jpg" alt="A small group carrying out fieldwork in a forest." loading="lazy"><figcaption>Exploring woodland.</figcaption></figure>
+<figure class="terrain-tile"><img src="../assets/terrain-prairie.jpg" alt="A group walking beside a meadow with trees." loading="lazy"><figcaption>Observing landscapes and habitats.</figcaption></figure>
+<figure class="terrain-tile"><img src="../assets/terrain-aquatique.jpg" alt="Group work in a river near the bank." loading="lazy"><figcaption>Studying aquatic environments.</figcaption></figure>
+<figure class="terrain-tile"><img src="../assets/terrain-bateau.jpg" alt="Two people wearing life jackets in a small boat." loading="lazy"><figcaption>Observing from the water.</figcaption></figure>
+<figure class="terrain-tile"><img src="../assets/terrain-groupe.jpg" alt="Participants meeting in a large workroom." loading="lazy"><figcaption>Sharing observations.</figcaption></figure>
+<figure class="terrain-tile"><img src="../assets/travail-equipe.jpg" alt="Participants working at a table with equipment and computers." loading="lazy"><figcaption>Analysing and discussing as a team.</figcaption></figure>
+</div>
+
+::: {.callout-band}
+## Fieldwork and thesis research
+
+The thesis allows students to investigate a scientific question using fieldwork, laboratory work or modelling, depending on the topic.
+
+[Research themes for theses →](memoires.qmd#exemples){.button-light}
+:::

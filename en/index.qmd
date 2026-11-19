@@ -1,0 +1,129 @@
+---
+title: "Master BOE — Organismal Biology and Ecology"
+---
+
+::: {.hero}
+::: {.hero-copy}
+::: {.partner-logos}
+<img src="../assets/UCLouvain.png" alt="UCLouvain" class="logo-uclouvain" width="220" height="55">
+<img src="../assets/UNamur.png" alt="University of Namur" class="logo-unamur" width="88" height="100">
+:::
+
+[UCLouvain · UNamur]{.eyebrow}
+
+# Master in Organismal Biology and Ecology
+
+::: {.lead}
+A joint programme at UCLouvain and UNamur
+:::
+
+A two-year programme covering organisms, their interactions and ecosystems, combining coursework, fieldwork, laboratory research and a professional internship.
+
+[Programme overview →](a-propos.qmd){.button-primary}
+[Admission requirements →](liens.qmd#admission){.text-link}
+:::
+::: {.hero-art .biodiversity-mosaic}
+<div class="mosaic-landscape"><img src="../assets/accueil-paysage.jpg" alt="Forest and mountain landscape." width="800" height="600"></div>
+<div class="mosaic-detail"><img src="../assets/accueil-coraux.jpg" alt="Corals and reef fish." width="500" height="350"></div>
+<div class="mosaic-detail"><img src="../assets/accueil-insecte.jpg" alt="An insect resting on a plant." width="500" height="350"></div>
+<p class="mosaic-caption">Organisms, interactions and ecosystems.</p>
+:::
+:::
+
+::: {.facts}
+::: {.fact}
+**120**
+
+ECTS credits
+:::
+::: {.fact}
+**2 years**
+
+of study
+:::
+::: {.fact}
+**2 universities**
+
+Namur & Louvain-la-Neuve
+:::
+::: {.fact}
+**Fieldwork & research**
+
+throughout the programme
+:::
+:::
+
+::: {.heritage-banner}
+[Since 2007]{.heritage-date}
+
+A joint UCLouvain–UNamur master's programme in organismal biology and ecology.
+:::
+
+::: {.section-intro}
+[Studying biology and ecology]{.eyebrow}
+
+## Coursework, research and professional experience
+
+The programme examines biodiversity, interactions between organisms and the functioning of natural environments. Students learn to formulate scientific questions, collect and analyse data, and critically assess results.
+:::
+
+::: {.feature-grid}
+::: {.feature}
+[01 / Coursework]{.eyebrow}
+
+### Core courses and specialisation
+
+Study terrestrial and aquatic environments and choose modules according to your interests.
+
+[The programme →](a-propos.qmd)
+
+[The field course in pictures →](terrain.qmd)
+:::
+::: {.feature}
+[02 / Research]{.eyebrow}
+
+### The master's thesis
+
+Join a research team and develop an independent project with scientific supervision.
+
+[Master's theses →](memoires.qmd)
+:::
+::: {.feature}
+[03 / Professional experience]{.eyebrow}
+
+### A four-month internship
+
+Apply your skills in a professional setting and assess your interests and career plans.
+
+[Professional internships →](stages.qmd)
+:::
+:::
+
+::: {.career-teaser}
+::: {}
+[After BOE]{.eyebrow}
+
+## Careers and alumni experiences
+
+Environmental risk assessment, environmental consultancy, water protection and conservation research are among the fields illustrated by our alumni accounts.
+
+[Careers and alumni accounts →](debouches.qmd){.button-primary}
+:::
+::: {.teaser-quote}
+> “What matters is developing a scientific approach, adaptability and a willingness to keep learning.”
+
+**Sophie-Charlotte Depestel**  
+Consultancy and project management at BE-MAPS
+
+[Translated from her French account.]{.profile-note}
+:::
+:::
+
+::: {.callout-band}
+## Admission and programme enquiries
+
+Consult the admission requirements or discuss the programme with its coordinators. Teaching is mainly in French, with some activities in English.
+
+[Admission information →](liens.qmd#admission){.button-light}
+[Programme contacts](equipe.qmd){.light-link}
+:::

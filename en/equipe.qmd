@@ -1,0 +1,246 @@
+---
+title: "The team"
+---
+
+[Teaching and research teams]{.eyebrow}
+
+# Programme contacts and thesis supervisors
+
+::: {.page-lead}
+BOE supervisors at UCLouvain and UNamur bring together complementary research specialties and support students in developing scientific projects.
+:::
+
+## Programme and annual study plan contacts
+
+::: {.feature-grid}
+::: {.feature}
+[UNamur]{.eyebrow}
+
+### Frederik De Laender
+
+**BOE programme coordinator at UNamur**
+
+For questions about the programme, your study plans and the opportunities offered by the degree.
+:::
+::: {.feature}
+[UCLouvain]{.eyebrow}
+
+### Hans Van Dyck
+
+**BOE programme coordinator at UCLouvain**
+
+For guidance on the programme and discussions about your background and interests.
+:::
+::: {.feature}
+[Annual study plan]{.eyebrow}
+
+### Renate Wesselingh
+
+**Chair of the BOE examination board · PAE enquiries**
+
+Contact for questions about the annual study plan (programme annuel de l’étudiant, PAE), individual study pathways and course selection.
+:::
+:::
+
+## Research specialties
+
+Thesis supervision covers field ecology, genomics, animal behaviour and plant physiology. Students also work with researchers and doctoral students in their host teams.
+
+## At UNamur
+
+::: {.people-grid}
+::: {.person}
+<div class="pi-heading">
+<img src="../assets/pi-de-laender.png" alt="Portrait of Frederik De Laender" class="pi-portrait" width="96" height="96" loading="lazy">
+
+### Frederik De Laender
+
+</div>
+
+**Biodiversity and ecosystem functioning**
+
+His research examines how ecological communities assemble and respond to disturbances. Experiments and models connect species diversity with ecosystem functioning.
+:::
+::: {.person}
+<div class="pi-heading">
+<img src="../assets/pi-dennis.png" alt="Portrait of Alice Dennis" class="pi-portrait" width="96" height="96" loading="lazy">
+
+### Alice Dennis
+
+</div>
+
+**Genomics and adaptation**
+
+She studies adaptation to environmental constraints, particularly in aquatic invertebrates. Her work combines experiments, genomics and bioinformatics to understand differences in responses among organisms.
+
+[Research information ↗](https://www.unamur.be/fr/newsroom/femmes-et-sciences-2023-portraits-de-chercheuses){.text-link}
+:::
+::: {.person}
+<div class="pi-heading">
+<img src="../assets/pi-reid.png" alt="Portrait of Brendan Reid" class="pi-portrait" width="96" height="96" loading="lazy">
+
+### Brendan Reid
+
+</div>
+
+**Conservation genetics**
+
+He uses genomic data, environmental DNA and museum collections to study the effects of environmental change on biodiversity. His work focuses particularly on fish, reptiles and amphibians and informs their conservation.
+
+[Research information ↗](https://www.unamur.be/en/science/biology/research/urbe/brendan-reid){.text-link}
+:::
+::: {.person}
+<div class="pi-heading">
+<img src="../assets/pi-silvestre.png" alt="Portrait of Frédéric Silvestre" class="pi-portrait" width="96" height="96" loading="lazy">
+
+### Frédéric Silvestre
+
+</div>
+
+**Environmental physiology and epigenetics**
+
+He explores the mechanisms linking environment, animal physiology and behaviour. His research examines lasting effects of stress and the role of epigenetics in responses to environmental change.
+:::
+::: {.person}
+<div class="pi-heading">
+<img src="../assets/pi-thore.png" alt="Portrait of Eli Thoré" class="pi-portrait" width="96" height="96" loading="lazy">
+
+### Eli Thoré
+
+</div>
+
+**Ecotoxicology and animal behaviour**
+
+He studies how animals, particularly aquatic species, respond to human-driven environmental change. His approach links behaviour, ecology and pollutant effects to understand the consequences of these pressures.
+
+[Research information ↗](https://www.unamur.be/en/science/biology/research/urbe/eli-thore){.text-link}
+:::
+:::
+
+## At UCLouvain
+
+::: {.people-grid}
+::: {.person}
+<div class="pi-heading">
+<img src="../assets/pi-baeckens.png" alt="Portrait of Simon Baeckens" class="pi-portrait" width="96" height="96" loading="lazy">
+
+### Simon Baeckens
+
+</div>
+
+**Animal evolutionary ecology**
+
+His research explores relationships between animal traits, behaviour and environment, particularly in reptiles. Fieldwork and experiments investigate responses to contrasting environments and human activities.
+
+[Research information ↗](https://www.simonbaeckens.com/people.html){.text-link}
+:::
+::: {.person}
+<div class="pi-heading">
+<img src="../assets/pi-evens.png" alt="Portrait of Ruben Evens" class="pi-portrait" width="96" height="96" loading="lazy">
+
+### Ruben Evens
+
+</div>
+
+**Movement and nocturnal ecology**
+
+He studies movement, activity rhythms and behaviour in birds and insects. Tracking and field observations reveal relationships with light, resources and habitat change.
+:::
+::: {.person}
+### Thierry Hance
+
+**Insect ecology and biological control**
+
+His research concerns interactions between insects and their use in biological control. Relationships between pests, natural enemies and microorganisms connect ecological questions with crop protection.
+:::
+::: {.person}
+<div class="pi-heading">
+<img src="../assets/pi-quinet.png" alt="Portrait of Muriel Quinet" class="pi-portrait" width="96" height="96" loading="lazy">
+
+### Muriel Quinet
+
+</div>
+
+**Plant physiology and reproduction**
+
+She studies plant development and reproduction under environmental constraints. Her work examines physiological stress responses and relationships between plant functioning and growing conditions.
+
+[Research information ↗](https://uclouvain.be/en/research-institutes/eli/elia/recherches){.text-link}
+:::
+::: {.person}
+<div class="pi-heading">
+<img src="../assets/pi-renoz.png" alt="Portrait of François Renoz" class="pi-portrait" width="96" height="96" loading="lazy">
+
+### François Renoz
+
+</div>
+
+**Insect–bacterial symbioses**
+
+He explores the origins and evolution of insect–bacterial associations. His research investigates how environmental conditions can transform these relationships and favour lasting symbioses.
+
+[Research information ↗](https://www.frs-fnrs.be/fr/news/francois-renoz-uclouvain-linterview-cqfd){.text-link}
+:::
+::: {.person}
+<div class="pi-heading">
+<img src="../assets/pi-schtickzelle.png" alt="Portrait of Nicolas Schtickzelle" class="pi-portrait" width="96" height="96" loading="lazy">
+
+### Nicolas Schtickzelle
+
+</div>
+
+**Population dynamics and conservation**
+
+He studies dispersal, habitat choice and population persistence in fragmented landscapes. His research combines field observations, experimental systems and quantitative analysis to address conservation questions.
+:::
+::: {.person}
+<div class="pi-heading">
+<img src="../assets/pi-van-dyck.png" alt="Portrait of Hans Van Dyck" class="pi-portrait" width="96" height="96" loading="lazy">
+
+### Hans Van Dyck
+
+</div>
+
+**Behavioural ecology and environmental change**
+
+He studies how animals perceive and use their environment, particularly butterflies. His research links behaviour, microclimate and resources to understand the effects of landscape change on biodiversity.
+:::
+::: {.person}
+<div class="pi-heading">
+<img src="../assets/pi-vanwambeke.png" alt="Portrait of Sophie Vanwambeke" class="pi-portrait" width="96" height="96" loading="lazy">
+
+### Sophie Vanwambeke
+
+</div>
+
+**Health geography and disease ecology**
+
+She studies relationships between landscapes, environment and disease risk, particularly vector-borne diseases. Spatial data help explain interactions between human health, animal health and environmental change.
+
+[Research information ↗](https://www.elic.ucl.ac.be/index.php?id=110){.text-link}
+:::
+::: {.person}
+<div class="pi-heading">
+<img src="../assets/pi-wesselingh.png" alt="Portrait of Renate Wesselingh" class="pi-portrait" width="96" height="96" loading="lazy">
+
+### Renate Wesselingh
+
+</div>
+
+**Evolutionary ecology and plant reproduction**
+
+She explores plant reproduction and its environmental context, including germination, flowering, pollination and breeding systems. Experiments and observations examine their ecological and evolutionary consequences.
+:::
+:::
+
+## Supervision throughout the programme
+
+Supervisory teams help students define research questions, choose methods and develop scientific independence.
+
+::: {.callout-band}
+## Thesis research themes
+
+Explore the research areas and methods available within the programme.
+
+[Master's theses →](memoires.qmd){.button-light}
+:::

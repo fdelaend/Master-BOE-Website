@@ -1,0 +1,90 @@
+---
+title: "Master's theses"
+---
+
+[Research training]{.eyebrow}
+
+# The master's research thesis
+
+::: {.page-lead}
+The thesis is an individual research project supervised by a scientific team. Students formulate a question, choose appropriate methods and critically assess their findings.
+:::
+
+::: {.split-section}
+::: {}
+## Research experience
+
+How can an observation become a testable hypothesis? Which data are needed, and what conclusions do they support? The thesis provides an opportunity to address these questions in practice.
+
+Students contribute to a project, compare their findings with published research and present their work to other scientists.
+:::
+::: {.note-panel}
+### A supervised project
+
+Work starts in the second semester of the first year and continues during the first semester of the second year, with support from a host laboratory and a supervisory team.
+:::
+:::
+
+## From defining a question to presenting results
+
+::: {.timeline}
+::: {.timeline-step}
+### Define a research question
+
+Discuss research possibilities with the teams and use your interests to inform the choice of topic.
+:::
+::: {.timeline-step}
+### Develop the study
+
+Read, observe, experiment and analyse, using methods suited to the research question.
+:::
+::: {.timeline-step}
+### Present the findings
+
+The written thesis and oral presentation develop your ability to explain results, recognise limitations and defend your interpretation.
+:::
+:::
+
+## Research themes {#exemples}
+
+BOE theses address biological and environmental questions at scales ranging from molecules to landscapes. The following themes illustrate the range of research; they are not a list of current thesis openings.
+
+::: {.topic-grid}
+::: {.topic-card #ecosystemes}
+### Biodiversity and ecosystem functioning
+
+How do species coexist? What makes communities resistant to disturbance? Research examines connections between biodiversity, ecological interactions and ecosystem functioning, including responses to climate change.
+
+**Approaches:** controlled experiments, community analysis and ecological modelling.
+:::
+::: {.topic-card #organismes}
+### Responses to environmental change
+
+Heat, pollution and limited resources impose multiple constraints. Research links behavioural and physiological responses with genetic and epigenetic mechanisms involved in adaptation.
+
+**Approaches:** ecotoxicology, ecophysiology, molecular biology and genomics.
+:::
+::: {.topic-card #conservation}
+### Behaviour, movement and conservation
+
+Feeding, habitat choice and movement are essential aspects of animal life. Understanding behaviour and population dynamics helps assess landscape change and inform biodiversity conservation.
+
+**Approaches:** field observations, movement tracking, mapping and quantitative analysis.
+:::
+::: {.topic-card #plantes}
+### Plants and species interactions
+
+Plant reproduction, stress responses and relationships with other organisms provide a range of research questions. Insect–bacterial associations also help explain how interactions evolve and shape ecology.
+
+**Approaches:** greenhouse and laboratory experiments, field monitoring and molecular methods.
+:::
+:::
+
+## Choosing a research approach
+
+A thesis may combine field observations, laboratory experiments and data analysis. Discussions with research teams help students develop a project suited to their interests and learn new methods.
+
+Research also develops project management, teamwork, communication and evidence-based argument: skills relevant to a range of careers.
+
+[Research teams and specialties →](equipe.qmd){.button-primary}
+[How alumni use these skills →](debouches.qmd){.text-link}

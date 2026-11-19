@@ -1,6 +1,8 @@
 project:
   type: website
   output-dir: _site
+  post-render:
+    - python3 scripts/localize_site.py
   resources:
     - "assets/**"
     - "!input/**"
@@ -13,6 +15,7 @@ project:
     - liens.qmd
     - debouches.qmd
     - terrain.qmd
+    - en/*.qmd
 lang: fr
 website:
   title: "Master BOE"

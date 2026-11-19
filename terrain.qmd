@@ -5,7 +5,7 @@ description: "Découvrez le cours de terrain en écologie intégrée du master B
 
 [Le vivant, sur le terrain]{.eyebrow}
 
-# Observer de près. Comprendre ensemble.
+# Le cours de terrain en écologie intégrée
 
 ::: {.page-lead}
 Le cours de terrain en écologie intégrée fait partie du tronc commun du master. Il donne une place concrète à l’observation des milieux et au travail collectif, dès le début de votre parcours.
@@ -32,7 +32,7 @@ Le **cours de terrain en écologie intégrée** est un enseignement collectif du
 :::
 :::
 
-## Une formation qui se vit aussi dehors
+## Activités de terrain et travail en groupe
 
 <div class="terrain-mosaic">
 <figure class="terrain-tile"><img src="assets/terrain-foret.jpg" alt="Activité de terrain en petit groupe dans une forêt." loading="lazy"><figcaption>Explorer les milieux boisés.</figcaption></figure>
@@ -44,7 +44,7 @@ Le **cours de terrain en écologie intégrée** est un enseignement collectif du
 </div>
 
 ::: {.callout-band}
-## Du terrain à votre propre question de recherche
+## Le terrain et le mémoire de recherche
 
 Le mémoire vous permettra ensuite d’approfondir une question scientifique, avec des approches de terrain, de laboratoire ou de modélisation selon le sujet.
 

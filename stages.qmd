@@ -2,9 +2,9 @@
 title: "Le stage professionnel"
 ---
 
-[Mettre vos compétences en mouvement]{.eyebrow}
+[Expérience professionnelle]{.eyebrow}
 
-# Ouvrir le champ des possibles.
+# Le stage professionnel
 
 ::: {.page-lead}
 Le stage professionnel, distinct du stage de terrain collectif, vous permet d’explorer un environnement professionnel, de mettre vos acquis à l’épreuve et d’affiner la suite de votre parcours.
@@ -19,10 +19,10 @@ au dernier quadrimestre
 ::: {.fact}
 **4 mois**
 
-pour une immersion prolongée
+de stage
 :::
 ::: {.fact}
-**Ici ou ailleurs**
+**En Belgique ou à l’étranger**
 
 une ouverture à l’international
 :::
@@ -37,7 +37,7 @@ Pendant le stage, votre formation rencontre de nouvelles questions, de nouvelles
 Une expérience à l’étranger est possible. Le projet et les modalités d’accueil se préparent avec l’équipe du programme.
 :::
 ::: {.note-panel}
-### Plus qu’une ligne sur un CV
+### Préciser son projet professionnel
 
 Quelles missions vous intéressent ? Dans quel environnement aimez-vous travailler ? Quelles compétences souhaitez-vous développer ? Le stage et le projet professionnel vous invitent à préciser vos réponses.
 :::
@@ -89,7 +89,7 @@ University of California, Wildlife Conservation Society au Cameroun, Australian 
 :::
 
 ::: {.callout-band}
-## Quatre mois pour préciser votre avenir.
+## Les domaines professionnels
 
 Recherche, conservation, conseil ou gestion de l’environnement : le stage vous donne l’occasion d’explorer un milieu professionnel et d’y développer votre autonomie.
 

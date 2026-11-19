@@ -2,12 +2,12 @@
 title: "L’équipe"
 ---
 
-[Des personnes pour vous accompagner]{.eyebrow}
+[Équipes pédagogiques et scientifiques]{.eyebrow}
 
-# La science se construit ensemble.
+# Responsables du programme et promoteurs de mémoires
 
 ::: {.page-lead}
-À l’UCLouvain et à l’UNamur, les promotrices et promoteurs du BOE explorent le vivant sous des angles complémentaires. Leurs équipes vous accompagnent pour transformer votre curiosité en démarche scientifique.
+À l’UCLouvain et à l’UNamur, les promotrices et promoteurs du BOE explorent le vivant sous des angles complémentaires. Leurs équipes encadrent les étudiants dans la réalisation de leurs projets scientifiques.
 :::
 
 ## Vos interlocuteurs pour le programme et le PAE
@@ -42,7 +42,7 @@ Votre interlocutrice pour les questions concernant le programme annuel de l’é
 :::
 :::
 
-## Des spécialités pour nourrir votre projet
+## Domaines de recherche
 
 Du terrain à la génomique, du comportement animal à la physiologie végétale, découvrez les domaines de recherche des scientifiques qui encadrent les mémoires. Au fil de votre projet, vous bénéficiez aussi des échanges avec les chercheuses, chercheurs, doctorantes et doctorants de leur équipe.
 
@@ -238,7 +238,7 @@ Elle explore la reproduction des plantes et ses liens avec leur environnement : 
 Les équipes d’encadrement vous aident à préciser votre question de recherche, à choisir vos méthodes et à développer votre autonomie scientifique.
 
 ::: {.callout-band}
-## Quel domaine vous donne envie d’aller plus loin ?
+## Les thèmes de recherche des mémoires
 
 Découvrez les grands horizons de recherche du mémoire et les approches que vous pourrez explorer pendant le master.
 

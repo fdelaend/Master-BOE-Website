@@ -1,5 +1,5 @@
 ---
-title: "Master BOE — Comprendre le vivant"
+title: "Master BOE — Biologie des organismes et écologie"
 ---
 
 ::: {.hero}
@@ -11,22 +11,22 @@ title: "Master BOE — Comprendre le vivant"
 
 [Un master, deux universités]{.eyebrow}
 
-# Comprendre le vivant. [Explorer ses possibles.]{.serif-accent}
+# Master en biologie des organismes et écologie
 
 ::: {.lead}
-Master en biologie des organismes et écologie
+Une formation commune à l’UCLouvain et à l’UNamur
 :::
 
-Des organismes aux écosystèmes, apprenez à poser les bonnes questions sur le vivant — et à y répondre par le terrain, l’expérimentation et la recherche.
+Une formation de deux ans consacrée aux organismes, à leurs interactions et aux écosystèmes, associant cours, terrain, recherche en laboratoire et stage professionnel.
 
 [Découvrir le master →](a-propos.qmd){.button-primary}
-[Votre projet commence ici ↗](liens.qmd#admission){.text-link}
+[Conditions d’admission ↗](liens.qmd#admission){.text-link}
 :::
 ::: {.hero-art .biodiversity-mosaic}
 <div class="mosaic-landscape"><img src="assets/accueil-paysage.jpg" alt="Diversité des paysages : forêt et reliefs montagneux." width="800" height="600"></div>
 <div class="mosaic-detail"><img src="assets/accueil-coraux.jpg" alt="Coraux et poissons d’un récif." width="500" height="350"></div>
 <div class="mosaic-detail"><img src="assets/accueil-insecte.jpg" alt="Un insecte posé sur une plante." width="500" height="350"></div>
-<p class="mosaic-caption">Des organismes aux écosystèmes.<br>Une même curiosité pour le vivant.</p>
+<p class="mosaic-caption">Organismes, interactions et écosystèmes.</p>
 :::
 :::
 
@@ -39,7 +39,7 @@ crédits ECTS
 ::: {.fact}
 **2 ans**
 
-pour approfondir votre passion
+de formation
 :::
 ::: {.fact}
 **2 universités**
@@ -56,22 +56,22 @@ au cœur de la formation
 ::: {.heritage-banner}
 [Depuis 2007]{.heritage-date}
 
-Un master partagé entre l’UCLouvain et l’UNamur, pour former des biologistes capables de comprendre le vivant et ses transformations.
+Un master commun à l’UCLouvain et à l’UNamur en biologie des organismes et écologie.
 :::
 
 ::: {.section-intro}
-[Votre curiosité, un point de départ]{.eyebrow}
+[Étudier la biologie et l’écologie]{.eyebrow}
 
-## Le vivant ne s’arrête pas aux portes de l’auditoire.
+## Cours, recherche et expérience professionnelle
 
-Vous vous interrogez sur la biodiversité, les interactions entre organismes et le fonctionnement des milieux naturels ? Le BOE vous invite à transformer cette curiosité en une démarche scientifique, des premières observations à l’analyse des données.
+Le programme étudie la biodiversité, les interactions entre organismes et le fonctionnement des milieux naturels. Les étudiants apprennent à formuler des questions scientifiques, à recueillir et analyser des données et à évaluer les résultats de manière critique.
 :::
 
 ::: {.feature-grid}
 ::: {.feature}
 [01 / Se former]{.eyebrow}
 
-### Construire votre regard
+### Tronc commun et spécialisation
 
 Croisez les approches des milieux terrestres et aquatiques et composez un parcours qui fait place à vos intérêts.
 
@@ -82,7 +82,7 @@ Croisez les approches des milieux terrestres et aquatiques et composez un parcou
 ::: {.feature}
 [02 / Chercher]{.eyebrow}
 
-### Une question devient votre recherche
+### Le mémoire de recherche
 
 Avec le mémoire, prenez part à la vie d’un laboratoire et développez votre autonomie scientifique.
 
@@ -91,7 +91,7 @@ Avec le mémoire, prenez part à la vie d’un laboratoire et développez votre 
 ::: {.feature}
 [03 / Expérimenter]{.eyebrow}
 
-### Donner un terrain à votre avenir
+### Un stage de quatre mois
 
 Le stage est l’occasion de mettre vos compétences en pratique et de préciser votre projet professionnel.
 
@@ -118,9 +118,9 @@ Consultance et gestion de projets chez BE-MAPS
 :::
 
 ::: {.callout-band}
-## Et si c’était votre prochain chapitre ?
+## Admission et renseignements
 
-Découvrez les conditions d’accès ou échangez avec les responsables du programme.
+Consultez les conditions d’accès ou échangez avec les responsables du programme. Les enseignements sont principalement en français, avec certaines activités en anglais.
 
 [Préparer votre candidature →](liens.qmd#admission){.button-light}
 [Rencontrer l’équipe](equipe.qmd){.light-link}

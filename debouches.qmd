@@ -5,14 +5,14 @@ description: "Quels métiers après le master BOE ? Découvrez les parcours de d
 
 [Après le master]{.eyebrow}
 
-# Votre avenir a plusieurs terrains.
+# Les débouchés après le BOE
 
 ::: {.page-lead}
 La biologie des organismes et l’écologie ouvrent sur des métiers variés. Les parcours de nos alumni montrent comment une formation scientifique peut se prolonger dans la recherche, l’expertise environnementale, la consultance ou l’action publique.
 :::
 
 ::: {.career-nav}
-[Les métiers](#metiers) · [Les employeurs](#employeurs) · [Les témoignages](#temoignages) · [Construire votre parcours](#votre-parcours)
+[Les témoignages](#temoignages) · [Les métiers](#metiers) · [Les employeurs](#employeurs) · [Préparer son parcours](#votre-parcours)
 :::
 
 ## Ils et elles racontent leur parcours {#temoignages}
@@ -227,7 +227,7 @@ Le stage vous aide à confronter vos envies à une expérience concrète. La ré
 :::
 
 ::: {.callout-band}
-## Quel environnement vous attire ?
+## Recherche et expérience professionnelle
 
 Découvrez la place du stage et du mémoire, ou échangez avec l’équipe sur vos intérêts.
 

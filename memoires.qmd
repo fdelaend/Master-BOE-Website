@@ -2,12 +2,12 @@
 title: "Les mémoires"
 ---
 
-[Une première aventure scientifique]{.eyebrow}
+[Formation à la recherche]{.eyebrow}
 
-# Une question. Votre démarche. De nouvelles perspectives.
+# Le mémoire de recherche
 
 ::: {.page-lead}
-Le mémoire vous place au cœur de la recherche. Vous passez de l’envie de comprendre à la construction d’un travail personnel, accompagné par une équipe scientifique.
+Le mémoire est un projet de recherche personnel encadré par une équipe scientifique. Il permet de formuler une question, de choisir des méthodes adaptées et de discuter les résultats de manière critique.
 :::
 
 ::: {.split-section}
@@ -45,7 +45,7 @@ La rédaction et la présentation orale vous entraînent à expliquer vos résul
 :::
 :::
 
-## Quels horizons pour votre mémoire ? {#exemples}
+## Les thèmes de recherche {#exemples}
 
 Comprendre le vivant, expliquer ses réponses aux changements environnementaux, contribuer à sa conservation : les mémoires BOE explorent ces enjeux à différentes échelles, des molécules aux paysages. Ces grands thèmes illustrent la diversité des recherches dans les équipes du master.
 
@@ -80,7 +80,7 @@ La reproduction des plantes, leurs réponses au stress et leurs relations avec d
 :::
 :::
 
-## Trouver l’approche qui vous ressemble
+## Choisir une approche de recherche
 
 Vous aimez observer sur le terrain, expérimenter au laboratoire ou analyser des données ? Un mémoire peut combiner plusieurs de ces approches. Les échanges avec les équipes vous aident à construire un projet en accord avec vos intérêts, tout en découvrant de nouvelles façons de faire de la science.
 

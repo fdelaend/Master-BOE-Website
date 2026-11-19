@@ -79,3 +79,11 @@ Les sujets annuels sont remplacés par quatre grands horizons de recherche et le
 ## Rafraîchissement visuel et précisions
 
 Stage professionnel : durée de quatre mois confirmée par le responsable ; exemples de structures explicitement présentés comme illustratifs, photo du cours de terrain et références aux interviews retirées. Témoignages placés en tête de la page Débouchés. Accueil illustré par trois images fournies (paysage, coraux, insecte). Date de création 2007 confirmée par l’utilisateur, en accord avec l’image Picture 1.png-10. L’accueil présente cette date sous forme de bandeau typographique. Treize portraits du dossier PIs exportés en PNG circulaires transparents ; aucune photo fournie pour Thierry Hance. Originaux conservés.
+
+## Versions française et anglaise — novembre 2026
+
+Les huit pages existent en français (racine) et en anglais (`en/`). Les images et la feuille de style restent partagées. `quarto render` compile les seize pages et lance `scripts/localize_site.py` : ce script adapte la navigation anglaise, le pied de page et les liens FR/EN statiques vers la page correspondante (sans JavaScript). Python 3 est nécessaire au rendu. Modifier les deux versions lors des mises à jour éditoriales. Les traductions des citations sont signalées. La langue principale de l’enseignement reste le français.
+
+Le ton a été revu pour privilégier des intitulés factuels. Enquête : `input/enquête alumnis 2026.pptx`, avril 2026. La diapositive 5 et son graphique BOE portent sur 115 répondants : 21 sans emploi, 7 en doctorat, 87 dans les autres activités (soit 94/115 en activité ou doctorat). La diapositive 10 indique spécifiquement pour BOE : 9 % à la fin du stage, 45 % en moins de six mois, 13 % après plus d’un an. Les captures de graphiques intégrées dans cette diapositive regroupent plusieurs masters et ne sont pas utilisées. Les textes publics donnent des ordres de grandeur, sans comparaison entre masters, et précisent la population et les limites. Aucun résultat global sur la localisation ou la stabilité des emplois n’est attribué au BOE.
+
+Les résultats de l’enquête alumni ont été retirés des deux versions publiques à la demande du responsable le 19 novembre 2026. Le document source est conservé dans input, exclu du site.

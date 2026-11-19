@@ -1,0 +1,96 @@
+---
+title: "Professional internship"
+---
+
+[Professional experience]{.eyebrow}
+
+# The professional internship
+
+::: {.page-lead}
+The professional internship is an individual placement, separate from the collective field course. It allows students to apply their skills in a professional setting and assess their career interests.
+:::
+
+::: {.facts .stage-facts}
+::: {.fact}
+**Year 2**
+
+in the final semester
+:::
+::: {.fact}
+**4 months**
+
+duration of the placement
+:::
+::: {.fact}
+**Belgium or abroad**
+
+international placements are possible
+:::
+:::
+
+::: {.split-section}
+::: {}
+## Working in a host organisation
+
+The internship introduces new questions, working methods and colleagues. Students apply their knowledge while identifying skills they wish to develop further.
+
+Placements abroad are possible. The project and hosting arrangements are prepared with the programme team.
+:::
+::: {.note-panel}
+### Developing a career plan
+
+The placement provides practical experience of different responsibilities and working environments, helping students assess their interests and development needs.
+:::
+:::
+
+## Preparing, completing and reviewing the internship
+
+::: {.feature-grid}
+::: {.feature}
+### Before
+
+Identify your interests and prepare a project consistent with your studies.
+:::
+::: {.feature}
+### During
+
+Contribute to the host organisation's activities and develop independence.
+:::
+::: {.feature}
+### After
+
+Present and critically review the experience and the skills acquired.
+:::
+:::
+
+[Discuss your project with the team →](equipe.qmd){.button-primary}
+
+## Examples of previous host organisations
+
+These examples illustrate the range of settings in Belgium and abroad. They refer to previous placements, not current internship vacancies. Each project and hosting arrangement must be developed with the organisation and the programme team.
+
+::: {.feature-grid}
+::: {.feature}
+### Belgium
+
+Ardennes et Gaume, Natagora, Contrat de Rivière Lesse and SPW services working on nature, water and forests.
+:::
+::: {.feature}
+### Europe
+
+The universities of Edinburgh and Lausanne, University College London, Max Planck Institute and nature parks in France.
+:::
+::: {.feature}
+### Other continents
+
+University of California, Wildlife Conservation Society in Cameroon, Australian Institute of Marine Sciences and WWF Vietnam.
+:::
+:::
+
+::: {.callout-band}
+## Professional fields
+
+Research, conservation, consultancy and environmental management offer different settings in which to gain experience and develop autonomy.
+
+[Career fields →](debouches.qmd#metiers){.button-light}
+:::
