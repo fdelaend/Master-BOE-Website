@@ -26,7 +26,7 @@ website:
     background: light
     left:
       - href: a-propos.qmd
-        text: À propos
+        text: Programme
       - href: equipe.qmd
         text: L’équipe
       - href: memoires.qmd

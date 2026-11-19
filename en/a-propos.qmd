@@ -1,13 +1,13 @@
 ---
-title: "About the programme"
+title: "The programme"
 ---
 
 [The programme]{.eyebrow}
 
-# Organismal biology and ecology at two universities
+# Programme: courses, modules and structure
 
 ::: {.page-lead}
-The BOE master's programme brings together UCLouvain and UNamur to study organisms, their interactions and the ecosystems they form.
+The programme combines core courses, three specialisation modules, a research thesis and a four- to six-month professional internship. This page describes the teaching and how it is organised across the two years.
 :::
 
 ::: {.split-section}

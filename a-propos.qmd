@@ -1,13 +1,13 @@
 ---
-title: "À propos du master"
+title: "Le programme"
 ---
 
 [La formation]{.eyebrow}
 
-# La biologie des organismes et l’écologie dans deux universités
+# Le programme : cours, modules et organisation
 
 ::: {.page-lead}
-Le Master en biologie des organismes et écologie réunit l’UCLouvain et l’UNamur autour d’un projet commun : comprendre les organismes, leurs interactions et les écosystèmes qu’ils composent.
+Le programme associe un tronc commun, trois modules de spécialisation, un mémoire de recherche et un stage professionnel de quatre à six mois. Cette page présente les enseignements et leur organisation sur les deux années du master.
 :::
 
 ::: {.split-section}

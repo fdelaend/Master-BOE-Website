@@ -19,7 +19,7 @@ Une formation commune à l’UCLouvain et à l’UNamur
 
 Une formation de deux ans consacrée aux organismes, à leurs interactions et aux écosystèmes, associant cours, terrain, recherche en laboratoire et stage professionnel.
 
-[Découvrir le master →](a-propos.qmd){.button-primary}
+[Consulter le programme →](a-propos.qmd){.button-primary}
 [Conditions d’admission ↗](liens.qmd#admission){.text-link}
 :::
 ::: {.hero-art .biodiversity-mosaic}
@@ -91,7 +91,7 @@ Avec le mémoire, prenez part à la vie d’un laboratoire et développez votre 
 ::: {.feature}
 [03 / Expérimenter]{.eyebrow}
 
-### Un stage de quatre mois
+### Un stage de quatre à six mois
 
 Le stage est l’occasion de mettre vos compétences en pratique et de préciser votre projet professionnel.
 

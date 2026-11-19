@@ -5,7 +5,7 @@ root=Path(__file__).resolve().parents[1]
 out=Path(os.environ.get('QUARTO_PROJECT_OUTPUT_DIR',root/'_site'))
 if not out.is_absolute():out=root/out
 names=['index','a-propos','equipe','memoires','stages','liens','debouches','terrain']
-labels={'À propos':'About','L’équipe':'Team','Mémoires':'Theses','Stage de terrain':'Field course','Stage professionnel':'Internship','Débouchés':'Careers','Liens utiles':'Useful links','Rejoindre le master ↗':'Admission ↗','Basculer la navigation':'Toggle navigation'}
+labels={'Programme':'Programme','L’équipe':'Team','Mémoires':'Theses','Stage de terrain':'Field course','Stage professionnel':'Internship','Débouchés':'Careers','Liens utiles':'Useful links','Rejoindre le master ↗':'Admission ↗','Basculer la navigation':'Toggle navigation'}
 for english in (False,True):
  for name in names:
   f=out/('en' if english else '')/(name+'.html')
