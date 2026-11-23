@@ -91,3 +91,7 @@ Les résultats de l’enquête alumni ont été retirés des deux versions publi
 ## Précisions sur le programme et le stage
 
 Durée du stage professionnel corrigée à quatre à six mois dans les deux langues, y compris sur l’accueil. La page À propos est renommée Programme dans le menu, son titre et son introduction pour préciser son rôle : cours, modules et organisation. Son chemin a-propos.html est conservé afin de préserver les liens existants.
+
+## Équipe — 23 novembre 2026
+
+Stanley Lutts ajouté sans portrait aux deux versions de la page équipe ; Thierry Hance retiré à la demande du responsable. Spécialité documentée par les pages UCLouvain ELIA (recherches) et le cours LBOE2168 (interactions plantes-environnement).

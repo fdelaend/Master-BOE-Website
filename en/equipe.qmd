@@ -147,11 +147,13 @@ His research explores relationships between animal traits, behaviour and environ
 He studies movement, activity rhythms and behaviour in birds and insects. Tracking and field observations reveal relationships with light, resources and habitat change.
 :::
 ::: {.person}
-### Thierry Hance
+### Stanley Lutts
 
-**Insect ecology and biological control**
+**Plant physiology and responses to environmental stress**
 
-His research concerns interactions between insects and their use in biological control. Relationships between pests, natural enemies and microorganisms connect ecological questions with crop protection.
+He studies plant growth and functioning under environmental constraints, including drought, salinity and mineral toxicities. His research explores the physiological and biochemical mechanisms involved in plant stress responses. He contributes to BOE teaching on interactions between plants and their environment.
+
+[Research information ↗](https://uclouvain.be/en/research-institutes/eli/elia/recherches){.text-link}
 :::
 ::: {.person}
 <div class="pi-heading">

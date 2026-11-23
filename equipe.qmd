@@ -147,11 +147,13 @@ Ses recherches explorent les relations entre les caractéristiques des animaux, 
 Il étudie les déplacements, les rythmes d’activité et les comportements des oiseaux et des insectes. Le suivi des animaux et l’observation de terrain permettent d’explorer leurs relations avec la lumière, les ressources et les changements de leur habitat.
 :::
 ::: {.person}
-### Thierry Hance
+### Stanley Lutts
 
-**Écologie des insectes et lutte biologique**
+**Physiologie végétale et réponses aux stress environnementaux**
 
-Ses travaux portent sur les interactions entre insectes et sur leur utilisation en lutte biologique. Les relations entre ravageurs, ennemis naturels et microorganismes permettent de relier des questions d’écologie à la protection des cultures.
+Il étudie la croissance et le fonctionnement des plantes face aux contraintes de leur environnement, notamment la sécheresse, la salinité et les toxicités minérales. Ses travaux explorent les mécanismes physiologiques et biochimiques qui permettent aux plantes de répondre à ces stress. Il participe aux enseignements du BOE sur les interactions entre les plantes et leur environnement.
+
+[En savoir plus sur ses recherches ↗](https://uclouvain.be/en/research-institutes/eli/elia/recherches){.text-link}
 :::
 ::: {.person}
 <div class="pi-heading">
